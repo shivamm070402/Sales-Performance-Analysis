@@ -5,13 +5,16 @@
 ## Dashboard Screenshots
 
 ### Project Overview
-![Project Overview](image/Dashboard.png)
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/a7e429aa-043c-4a24-adb1-addd75b8a7a2" />
+
 
 ### Revenue Analysis Dashboard
-![Revenue Analysis](image/Revenue_analysis.png)
+<img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/de7c0703-58dd-46bf-9a7e-a4260e94c751" />
+
 
 ### Product Analysis Dashboard
-![Product Analysis](image/Product_analysis.png)
+<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/ffa5492d-9d9f-4d28-822b-745a0b733fbe" />
+
 
 
 ## 📌 Project Overview
@@ -172,7 +175,7 @@ By combining Python, MySQL, and Power BI, I developed an interactive sales perfo
 
 ### 👩‍💻 Author
 
-**Nupur Choure**
+**Shivam Mohite**
 
-[GitHub Repository](https://github.com/nupur23choure/Sales_performance_analysis)
+
 #                    
