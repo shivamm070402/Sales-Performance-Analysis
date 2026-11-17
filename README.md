@@ -5,15 +5,18 @@
 ## Dashboard Screenshots
 
 ### Project Overview
-<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/a7e429aa-043c-4a24-adb1-addd75b8a7a2" />
+<img width="767" height="436" alt="image" src="https://github.com/user-attachments/assets/a087b9d3-599a-401e-8092-8bf6df4351fe" />
+
 
 
 ### Revenue Analysis Dashboard
-<img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/de7c0703-58dd-46bf-9a7e-a4260e94c751" />
+<img width="762" height="437" alt="image" src="https://github.com/user-attachments/assets/f536b0f3-08bb-43fc-9897-042aeb8f0c4b" />
+
 
 
 ### Product Analysis Dashboard
-<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/ffa5492d-9d9f-4d28-822b-745a0b733fbe" />
+<img width="767" height="428" alt="image" src="https://github.com/user-attachments/assets/31c81bf0-245c-4427-8d72-f7319eec2e00" />
+
 
 
 
